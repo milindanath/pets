@@ -6,3 +6,4 @@ Types of pets
 - dogs
 - cats
 - squirrel
+- rabbit
